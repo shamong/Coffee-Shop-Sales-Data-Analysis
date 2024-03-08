@@ -14,6 +14,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 2. Busiest Days of the Week: Identify which days of the week tend to be busiest for the coffee shop and analyze the reasons behind this trend.
 
 3. Product Analysis:
+   
 3.1. Determine the most and least sold products.
 
 3.2. Identify products that drive the most revenue for the business.
